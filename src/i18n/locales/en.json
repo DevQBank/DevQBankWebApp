@@ -1,0 +1,118 @@
+{
+  "features": {
+    "eyebrow": "What we offer",
+    "title": "Featured Capabilities",
+    "subtitle": "With DevQBank, quickly find the questions you need, learn from a quality content stream, save, and share.",
+    "items": {
+      "search": {
+        "title": "Search & Filtering",
+        "desc": "Fast, accurate search by domain, technology, experience, topic, company, and difficulty tags. Reach the right question in a few clicks with advanced sorting and rich filters.",
+        "tags": ["Full-text", "Multi-filter"]
+      },
+      "flow": {
+        "title": "Question & Answer Flow",
+        "desc": "Draft → review → approve/reject stages ensure a consistent, high‑quality publishing pipeline. Versioning and feedback drive continuous improvement.",
+        "tags": ["Moderation", "Quality"]
+      },
+      "oauth": {
+        "title": "OAuth & Roles",
+        "desc": "Sign in with email/password, Google, or GitHub; clear and secure authorization with Guest/User/Moderator/Admin roles.",
+        "tags": ["OAuth", "RBAC"]
+      },
+      "bookmark": {
+        "title": "Bookmarks & Collections",
+        "desc": "Save favorite questions, build thematic collections, share, and revisit anytime.",
+        "tags": ["Collections", "Favorite"]
+      },
+      "sponsor": {
+        "title": "Sponsor Support",
+        "desc": "Support via BuyMeACoffee; gain visibility with your logo in the sponsor bar and contribute to the ecosystem.",
+        "tags": ["OSS", "Support"]
+      },
+      "i18n": {
+        "title": "Multilingual Content",
+        "desc": "TR/EN content; online translation workflow, missing translation alerts, and language-aware UI.",
+        "tags": ["i18n"]
+      }
+    }
+  }
+  ,
+  "auth": {
+    "signInTitle": "Sign in to DevQBank",
+    "signInSubtitle": "Continue with your account and explore the question bank.",
+    "email": "Email",
+    "password": "Password",
+    "remember": "Remember me",
+    "forgot": "Forgot password",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "noAccount": "Don't have an account?",
+    "aboutTitle": "What is DevQBank?",
+    "aboutDesc": "A modern community-powered question bank built on real interview questions. Search, filtering, moderation, and collections speed up learning.",
+    "aboutBullets": {
+      "search": "Powerful search & filtering by domain/tech/experience tags.",
+      "flow": "Draft → review → approve/reject ensures a high-quality flow.",
+      "oauth": "Email/password + Google/GitHub sign-in with role-based access.",
+      "bookmark": "Save questions and build collections for quick revisit."
+    }
+  },
+  "search": {
+    "placeholder": "Backend, Mid, .NET"
+  },
+  "stats": {
+    "title": "Community Stats",
+    "subtitle": "A quick snapshot of the growing question bank.",
+    "top": "Top Questions",
+    "approved": "Newly Approved",
+    "tags": "Total Tags",
+    "contributors": "Contributors"
+  },
+
+  "navbar": {
+    "links": {
+      "features": "Features",
+      "categories": "Categories",
+      "community": "Community",
+      "faq": "FAQ"
+    },
+    "actions": {
+      "signIn": "Sign In",
+      "signUp": "Sign Up"
+    }
+  },
+  "hero": {
+    "title": "Ready to prepare for interviews with real interview questions?",
+    "description": "Questions are carefully curated by the community and intelligently filtered by domain, technology, experience, and topic tags. The entire process is managed with transparent moderation and presented with a clean, user‑friendly interface.",
+    "discover": "Explore Questions",
+    "badges": {
+      "b1": "Provides TR and EN content.",
+      "b2": "Supports OAuth with Google and GitHub.",
+      "b3": "Uses SEO‑friendly slugs."
+    },
+    "mock": {
+      "header": "Backend · Mid · .NET",
+      "c1": "Covers OOP, Async, and HTTP topics.",
+      "c2": "Includes SQL and EF Core topics.",
+      "c3": "Explains commonly used Design Patterns."
+    }
+  },
+  "cta": {
+    "title": "Join the Community",
+    "description": "Add questions/answers, vote, and edit. Let's build the cleanest question bank together.",
+    "primary": "Get Started",
+    "github": "GitHub"
+  },
+  "footer": {
+    "rules": "Community Guidelines",
+    "style": "Style Guide",
+    "faq": "FAQ",
+    "copy": "DevQBank"
+  },
+  "sponsors": {
+    "title": "Support the project",
+    "description": "Contribute to development and get featured in the sponsor bar. Thank you!",
+    "cta": "Buy Me A Coffee"
+  }
+}
+
+

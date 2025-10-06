@@ -1,0 +1,118 @@
+{
+  "features": {
+    "eyebrow": "Neler sunuyoruz",
+    "title": "Öne Çıkan Özellikler",
+    "subtitle": "DevQBank ile aradığın soruları hızla bul, kaliteli içerik akışıyla öğren, kaydet ve paylaş.",
+    "items": {
+      "search": {
+        "title": "Arama & Filtreleme",
+        "desc": "Alan, teknoloji, deneyim, konu, şirket ve zorluk etiketleriyle hızlı ve isabetli arama. Gelişmiş sıralama ve kapsamlı filtrelerle doğru soruya birkaç tıkla ulaş.",
+        "tags": ["Full-text", "Multi-filter"]
+      },
+      "flow": {
+        "title": "Soru & Cevap Akışı",
+        "desc": "Taslak → inceleme → onay/red aşamalarıyla tutarlı ve kaliteli içerik üreten yayın akışı. Versiyonlama ve geribildirim ile içerik sürekli iyileşir.",
+        "tags": ["Moderasyon", "Kalite"]
+      },
+      "oauth": {
+        "title": "OAuth & Roller",
+        "desc": "E‑posta/şifre, Google ve GitHub ile giriş; Guest/User/Moderator/Admin rolleriyle net ve güvenli yetkilendirme.",
+        "tags": ["OAuth", "RBAC"]
+      },
+      "bookmark": {
+        "title": "Bookmark & Koleksiyon",
+        "desc": "Beğendiğin soruları kaydet, tematik koleksiyonlar oluştur, paylaş ve istediğin zaman geri dön.",
+        "tags": ["Koleksiyon", "Favori"]
+      },
+      "sponsor": {
+        "title": "Sponsor Desteği",
+        "desc": "BuyMeACoffee üzerinden destek ol; sponsor bandında logonla görünürlük kazan ve ekosisteme katkı sağla.",
+        "tags": ["OSS", "Destek"]
+      },
+      "i18n": {
+        "title": "Çok Dilli İçerik",
+        "desc": "TR/EN içerikler; çevrim içi çeviri iş akışı, eksik çeviri uyarıları ve dil bazlı arayüz.",
+        "tags": ["i18n"]
+      }
+    }
+  }
+  ,
+  "auth": {
+    "signInTitle": "DevQBank'e Giriş Yap",
+    "signInSubtitle": "Hesabınla devam et ve soru bankasını keşfet.",
+    "email": "E-posta",
+    "password": "Şifre",
+    "remember": "Beni hatırla",
+    "forgot": "Şifremi unuttum",
+    "signIn": "Giriş Yap",
+    "signUp": "Kayıt Ol",
+    "noAccount": "Hesabın yok mu?",
+    "aboutTitle": "DevQBank Nedir?",
+    "aboutDesc": "Gerçek mülakat sorularına dayalı, topluluk tarafından beslenen modern bir soru bankasıdır. Arama, filtreleme, moderasyon ve koleksiyonlarla hızlı öğrenmeyi hedefler.",
+    "aboutBullets": {
+      "search": "Alan/teknoloji/deneyim etiketleriyle güçlü arama & filtreleme.",
+      "flow": "Taslak → inceleme → onay/red ile kaliteli içerik akışı.",
+      "oauth": "E-posta/şifre + Google/GitHub ile giriş, rollere göre yetki.",
+      "bookmark": "Soruları kaydetme ve koleksiyon oluşturma ile tekrar erişim."
+    }
+  },
+  "search": {
+    "placeholder": "Backend, Mid, .NET"
+  },
+  "stats": {
+    "title": "Topluluk İstatistikleri",
+    "subtitle": "Büyüyen soru bankasının kısa özeti.",
+    "top": "Top Sorular",
+    "approved": "Yeni Onaylanan",
+    "tags": "Toplam Etiket",
+    "contributors": "Katkıda Bulunan"
+  },
+  
+  "navbar": {
+    "links": {
+      "features": "Özellikler",
+      "categories": "Kategoriler",
+      "community": "Topluluk",
+      "faq": "SSS"
+    },
+    "actions": {
+      "signIn": "Giriş",
+      "signUp": "Kayıt Ol"
+    }
+  },
+  "hero": {
+    "title": "Gerçek mülakat sorularıyla mülakatlara hazırlanmaya var mısın?",
+    "description": "Sorular topluluk tarafından özenle seçilir ve alan, teknoloji, deneyim ile konu etiketlerine göre akıllıca filtrelenir. Tüm süreç şeffaf bir moderasyonla yönetilir ve kullanıcı dostu, temiz bir arayüzle sunulur.",
+    "discover": "Soruları Keşfet",
+    "badges": {
+      "b1": "TR ve EN içerik sunar.",
+      "b2": "Google ve GitHub ile OAuth destekler.",
+      "b3": "SEO dostu slug'lar kullanır."
+    },
+    "mock": {
+      "header": "Backend · Mid · .NET",
+      "c1": "OOP, Async ve HTTP konularını kapsar.",
+      "c2": "SQL ve EF Core başlıklarını içerir.",
+      "c3": "Sık kullanılan Design Pattern'ları açıklar."
+    }
+  },
+  "cta": {
+    "title": "Topluluğa Katıl",
+    "description": "Soru/cevap ekle, oyla, düzenle. Birlikte en temiz soru bankasını oluşturalım.",
+    "primary": "Hemen Başla",
+    "github": "GitHub"
+  },
+  "footer": {
+    "rules": "Topluluk Kuralları",
+    "style": "Stil Rehberi",
+    "faq": "SSS",
+    "copy": "DevQBank"
+  },
+  "sponsors": {
+    "title": "Projeyi destekle",
+    "description": "Gelişime katkı sağla, sponsor bandında yer al. Teşekkürler!",
+    "cta": "Buy Me A Coffee"
+  }
+}
+
+
